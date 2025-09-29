@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 - 💻 Engenheira de Plataforma com foco em **Cloud Computing (AWS)** e **SRE**.  
 - ☁️ Especialista em **Kubernetes (EKS)** e automação de infraestrutura para projetos de alta criticidade.  
